@@ -120,6 +120,10 @@
     color: #fff;
 }
 
+.header .inner .util>li:hover {
+    color: #ff3333;
+}
+
 .header.on .inner .util {
     color: #333;
 
